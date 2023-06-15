@@ -1,6 +1,6 @@
 2023春情感分析实验 情感分类
 
-实验环境：colab GPU:T4
+实验环境：colab
 
 词向量使用：[Chinese Word Vectors 中文词向量](https://github.com/Embedding/Chinese-Word-Vectors)
 
