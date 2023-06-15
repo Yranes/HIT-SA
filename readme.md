@@ -1,5 +1,7 @@
 2023春情感分析实验 情感分类
 
+实验环境：colab GPU:T4
+
 词向量使用：[Chinese Word Vectors 中文词向量](https://github.com/Embedding/Chinese-Word-Vectors)
 
 数据处理：分词使用[jieba](https://github.com/fxsjy/jieba)，变长数据处理全部粗暴加\<PAD\>符，不在预训练词向量中出现的均设置为\<UNK\>
